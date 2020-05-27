@@ -2,10 +2,7 @@
 
 # Git e Github - notas e cheatsheet
 
-![](./cheatsheet/svg/GitGitHub - cheatsheet page 1.svg)
-
-![](./cheatsheet/svg/GitGitHub - cheatsheet page 2.svg)
-
-![](./cheatsheet/svg/GitGitHub - cheatsheet page 3.svg)
-
-![](./cheatsheet/svg/GitGitHub - cheatsheet page 4.svg)
+![](cheatsheet/png/GitGitHub%20-%20cheatsheet%20page%201.png)
+![](cheatsheet/png/GitGitHub%20-%20cheatsheet%20page%202.png)
+![](cheatsheet/png/GitGitHub%20-%20cheatsheet%20page%203.png)
+![](cheatsheet/png/GitGitHub%20-%20cheatsheet%20page%204.png)
